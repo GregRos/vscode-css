@@ -1,0 +1,20 @@
+.explorer-folders-view .monaco-list-row .folder-icon {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Calibri" !important;
+    font-variant-numeric: oldstyle-nums !important;
+}
+
+.explorer-folders-view .monaco-list-row {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.tab .label-name {
+    font-size: 18px !important;
+}
+
+.explorer-folders-view .monaco-icon-label:before {
+    background-size: 20px !important;
+    margin-right: 3px;
+}
